@@ -1,5 +1,7 @@
 package game;
 
+// Author: Nicholas Caiazza
+
 public class Player {
 	
 	private Room currentRoom;

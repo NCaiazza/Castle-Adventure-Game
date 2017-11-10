@@ -1,5 +1,7 @@
 package game;
 
+// Author: Nicholas Caiazza
+
 public class Item {
 	
 	private String name;

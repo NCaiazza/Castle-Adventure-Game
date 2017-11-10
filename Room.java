@@ -1,5 +1,7 @@
 package game;
 
+// Author: Nicholas Caiazza
+
 public class Room {
 	
 	private Room northRoom;

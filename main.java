@@ -1,5 +1,7 @@
 package game;
 
+// Author: Nicholas Caiazza
+
 import java.awt.color.CMMException;
 import java.util.Scanner;
 
